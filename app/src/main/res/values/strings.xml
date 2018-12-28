@@ -1,0 +1,509 @@
+<resources>
+    <string name="app_name">ListViewContact</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="json_data">[
+ {
+   \"name\": \"Maya D. Reeves\",
+   \"phone number\": \"077-379-6539\",
+   \"email\": \"sem.semper.erat@et.net\"
+ },
+ {
+   \"name\": \"Vincent P. Hansen\",
+   \"phone number\": \"034-444-1529\",
+   \"email\": \"aptent@Utnecurna.com\"
+ },
+ {
+   \"name\": \"Julian H. Strickland\",
+   \"phone number\": \"032-903-7513\",
+   \"email\": \"dis@nibh.co.uk\"
+ },
+ {
+   \"name\": \"Mufutau P. Madden\",
+   \"phone number\": \"011-323-0722\",
+   \"email\": \"rutrum.Fusce@adipiscingfringillaporttitor.org\"
+ },
+ {
+   \"name\": \"Troy F. Vincent\",
+   \"phone number\": \"019-053-0339\",
+   \"email\": \"vitae.risus@erategettincidunt.org\"
+ },
+ {
+   \"name\": \"Clinton X. Glenn\",
+   \"phone number\": \"068-581-7477\",
+   \"email\": \"non@tincidunt.co.uk\"
+ },
+ {
+   \"name\": \"Martena R. Bradshaw\",
+   \"phone number\": \"042-164-0909\",
+   \"email\": \"arcu.imperdiet@scelerisqueneque.com\"
+ },
+ {
+   \"name\": \"Theodore O. Callahan\",
+   \"phone number\": \"069-639-1043\",
+   \"email\": \"Nullam.vitae@nonmassanon.edu\"
+ },
+ {
+   \"name\": \"Jillian X. Alford\",
+   \"phone number\": \"004-486-8189\",
+   \"email\": \"egestas.lacinia@turpisnon.com\"
+ },
+ {
+   \"name\": \"Zelenia X. Hensley\",
+   \"phone number\": \"051-349-9963\",
+   \"email\": \"in.faucibus@pharetrafelis.ca\"
+ },
+ {
+   \"name\": \"Quemby U. Holt\",
+   \"phone number\": \"006-980-2685\",
+   \"email\": \"dis@montesnasceturridiculus.edu\"
+ },
+ {
+   \"name\": \"Heidi Z. Franco\",
+   \"phone number\": \"072-643-4338\",
+   \"email\": \"Nunc.laoreet@auguemalesuada.net\"
+ },
+ {
+   \"name\": \"Claudia E. Simmons\",
+   \"phone number\": \"078-926-1389\",
+   \"email\": \"fringilla.euismod@Phaselluselit.co.uk\"
+ },
+ {
+   \"name\": \"Leah O. Ewing\",
+   \"phone number\": \"054-324-0055\",
+   \"email\": \"pede.Nunc@orci.com\"
+ },
+ {
+   \"name\": \"Rhea H. Walsh\",
+   \"phone number\": \"089-674-3788\",
+   \"email\": \"sit@necdiamDuis.net\"
+ },
+ {
+   \"name\": \"Piper O. Davis\",
+   \"phone number\": \"090-879-3313\",
+   \"email\": \"sit.amet@eteros.edu\"
+ },
+ {
+   \"name\": \"Wilma Z. Dejesus\",
+   \"phone number\": \"001-739-7997\",
+   \"email\": \"eu.tellus.eu@tinciduntadipiscingMauris.org\"
+ },
+ {
+   \"name\": \"Emerald G. Avery\",
+   \"phone number\": \"006-930-5460\",
+   \"email\": \"mauris.Suspendisse@etmagnisdis.net\"
+ },
+ {
+   \"name\": \"Buckminster K. Brown\",
+   \"phone number\": \"047-089-5907\",
+   \"email\": \"imperdiet.erat@Donec.edu\"
+ },
+ {
+   \"name\": \"Natalie Q. Vargas\",
+   \"phone number\": \"029-509-1474\",
+   \"email\": \"at@ataugueid.co.uk\"
+ },
+ {
+   \"name\": \"Faith V. Cote\",
+   \"phone number\": \"045-823-6842\",
+   \"email\": \"arcu.Vestibulum@inceptoshymenaeosMauris.co.uk\"
+ },
+ {
+   \"name\": \"Kyra N. Greer\",
+   \"phone number\": \"024-955-6316\",
+   \"email\": \"quam.elementum@semegestas.co.uk\"
+ },
+ {
+   \"name\": \"Beverly N. Vargas\",
+   \"phone number\": \"015-809-5507\",
+   \"email\": \"nec.quam.Curabitur@erat.net\"
+ },
+ {
+   \"name\": \"Hakeem C. Gates\",
+   \"phone number\": \"060-053-1333\",
+   \"email\": \"fermentum@Nullamvitaediam.com\"
+ },
+ {
+   \"name\": \"Judah I. Strickland\",
+   \"phone number\": \"049-165-0214\",
+   \"email\": \"commodo.ipsum@ligulaeuenim.org\"
+ },
+ {
+   \"name\": \"Hop F. Hammond\",
+   \"phone number\": \"015-137-4877\",
+   \"email\": \"dolor.quam.elementum@Sedeueros.co.uk\"
+ },
+ {
+   \"name\": \"Kaseem V. Brennan\",
+   \"phone number\": \"044-453-4109\",
+   \"email\": \"dictum.mi.ac@diamDuismi.org\"
+ },
+ {
+   \"name\": \"Julian Q. Rocha\",
+   \"phone number\": \"020-986-6157\",
+   \"email\": \"lorem.vitae.odio@SuspendisseduiFusce.co.uk\"
+ },
+ {
+   \"name\": \"Hedda T. Head\",
+   \"phone number\": \"096-647-0425\",
+   \"email\": \"Donec.consectetuer@erosturpis.org\"
+ },
+ {
+   \"name\": \"Nola Q. Grant\",
+   \"phone number\": \"068-802-7060\",
+   \"email\": \"ipsum@enim.org\"
+ },
+ {
+   \"name\": \"Drake X. Frazier\",
+   \"phone number\": \"075-294-4062\",
+   \"email\": \"arcu.Curabitur.ut@aliquamenimnec.edu\"
+ },
+ {
+   \"name\": \"Acton X. Guzman\",
+   \"phone number\": \"021-870-3050\",
+   \"email\": \"et.arcu@justositamet.net\"
+ },
+ {
+   \"name\": \"Price A. Boyer\",
+   \"phone number\": \"083-016-8944\",
+   \"email\": \"vehicula@adui.net\"
+ },
+ {
+   \"name\": \"Florence V. Burgess\",
+   \"phone number\": \"041-983-9591\",
+   \"email\": \"Aliquam@diamnunc.edu\"
+ },
+ {
+   \"name\": \"Nathan W. Cox\",
+   \"phone number\": \"084-783-4335\",
+   \"email\": \"dis.parturient@Aliquam.edu\"
+ },
+ {
+   \"name\": \"Nathan J. Lawson\",
+   \"phone number\": \"069-662-1087\",
+   \"email\": \"a@imperdietnecleo.ca\"
+ },
+ {
+   \"name\": \"Driscoll H. Buchanan\",
+   \"phone number\": \"099-866-0280\",
+   \"email\": \"Sed.eu.eros@sedpede.edu\"
+ },
+ {
+   \"name\": \"Gabriel H. Sargent\",
+   \"phone number\": \"084-157-7028\",
+   \"email\": \"lectus.ante.dictum@lacus.ca\"
+ },
+ {
+   \"name\": \"Baker V. Benson\",
+   \"phone number\": \"056-845-2955\",
+   \"email\": \"nonummy@fermentumconvallis.net\"
+ },
+ {
+   \"name\": \"Whoopi B. Houston\",
+   \"phone number\": \"048-581-7600\",
+   \"email\": \"Suspendisse@Quisquenonummyipsum.co.uk\"
+ },
+ {
+   \"name\": \"Lucius A. Roman\",
+   \"phone number\": \"015-465-7987\",
+   \"email\": \"imperdiet@sociis.com\"
+ },
+ {
+   \"name\": \"Kieran Q. Jenkins\",
+   \"phone number\": \"098-306-1550\",
+   \"email\": \"Suspendisse@auctor.co.uk\"
+ },
+ {
+   \"name\": \"Ryder V. Pittman\",
+   \"phone number\": \"005-380-3826\",
+   \"email\": \"tellus.Suspendisse.sed@Donec.org\"
+ },
+ {
+   \"name\": \"Palmer U. Mcdonald\",
+   \"phone number\": \"085-119-9671\",
+   \"email\": \"ornare@ad.edu\"
+ },
+ {
+   \"name\": \"Darryl F. Rich\",
+   \"phone number\": \"018-418-3559\",
+   \"email\": \"ligula@luctusaliquet.org\"
+ },
+ {
+   \"name\": \"Ingrid D. Sanchez\",
+   \"phone number\": \"080-701-8573\",
+   \"email\": \"dui.nec@cursusInteger.edu\"
+ },
+ {
+   \"name\": \"Sean G. Phillips\",
+   \"phone number\": \"069-403-5919\",
+   \"email\": \"sem.egestas.blandit@indolorFusce.edu\"
+ },
+ {
+   \"name\": \"Jennifer C. Bryant\",
+   \"phone number\": \"027-337-5567\",
+   \"email\": \"Etiam@ornare.ca\"
+ },
+ {
+   \"name\": \"Erica H. Martin\",
+   \"phone number\": \"021-893-8857\",
+   \"email\": \"vitae.purus@ametluctusvulputate.org\"
+ },
+ {
+   \"name\": \"Mufutau M. Gallagher\",
+   \"phone number\": \"073-693-4260\",
+   \"email\": \"Suspendisse.sagittis.Nullam@pellentesque.co.uk\"
+ },
+ {
+   \"name\": \"Olivia R. Wise\",
+   \"phone number\": \"071-252-8212\",
+   \"email\": \"Mauris.vestibulum.neque@Craseu.edu\"
+ },
+ {
+   \"name\": \"Hilel S. Pittman\",
+   \"phone number\": \"021-142-9364\",
+   \"email\": \"mollis.Duis.sit@iaculisnec.net\"
+ },
+ {
+   \"name\": \"Indira M. Valencia\",
+   \"phone number\": \"066-569-8577\",
+   \"email\": \"blandit@consectetueripsumnunc.com\"
+ },
+ {
+   \"name\": \"Colt G. Barrera\",
+   \"phone number\": \"013-308-5538\",
+   \"email\": \"lobortis.mauris@eu.ca\"
+ },
+ {
+   \"name\": \"Russell X. Cannon\",
+   \"phone number\": \"073-379-2507\",
+   \"email\": \"orci@tincidunt.com\"
+ },
+ {
+   \"name\": \"Ezekiel L. Douglas\",
+   \"phone number\": \"080-340-3652\",
+   \"email\": \"porttitor.eros.nec@antelectus.edu\"
+ },
+ {
+   \"name\": \"Ayanna B. Owens\",
+   \"phone number\": \"091-938-7201\",
+   \"email\": \"ipsum.nunc.id@temporarcu.ca\"
+ },
+ {
+   \"name\": \"Ivory D. Ford\",
+   \"phone number\": \"034-452-2095\",
+   \"email\": \"In@et.org\"
+ },
+ {
+   \"name\": \"Burton V. Pittman\",
+   \"phone number\": \"041-006-1549\",
+   \"email\": \"elit@sem.com\"
+ },
+ {
+   \"name\": \"Athena P. Blair\",
+   \"phone number\": \"060-315-0284\",
+   \"email\": \"scelerisque.lorem.ipsum@lacusQuisque.org\"
+ },
+ {
+   \"name\": \"Eliana L. Hurst\",
+   \"phone number\": \"020-491-9150\",
+   \"email\": \"fringilla@sem.net\"
+ },
+ {
+   \"name\": \"Germaine V. Sexton\",
+   \"phone number\": \"014-625-3506\",
+   \"email\": \"dictum.cursus@nonummyipsumnon.org\"
+ },
+ {
+   \"name\": \"Cruz B. Everett\",
+   \"phone number\": \"023-634-1491\",
+   \"email\": \"Donec.dignissim.magna@ante.co.uk\"
+ },
+ {
+   \"name\": \"Rahim V. Doyle\",
+   \"phone number\": \"036-629-0799\",
+   \"email\": \"ante@Nunc.ca\"
+ },
+ {
+   \"name\": \"Jerome O. Douglas\",
+   \"phone number\": \"069-250-8678\",
+   \"email\": \"auctor.velit.Aliquam@commodohendrerit.co.uk\"
+ },
+ {
+   \"name\": \"Nadine A. Reid\",
+   \"phone number\": \"081-329-5431\",
+   \"email\": \"quis.arcu@euismodmauriseu.ca\"
+ },
+ {
+   \"name\": \"Fritz F. Castillo\",
+   \"phone number\": \"007-981-1135\",
+   \"email\": \"libero@Sed.co.uk\"
+ },
+ {
+   \"name\": \"Ignacia H. Watkins\",
+   \"phone number\": \"000-200-2637\",
+   \"email\": \"ipsum.sodales@euismod.net\"
+ },
+ {
+   \"name\": \"Heather U. Bradshaw\",
+   \"phone number\": \"045-760-8538\",
+   \"email\": \"quam.quis.diam@antedictummi.edu\"
+ },
+ {
+   \"name\": \"Ulla E. Pope\",
+   \"phone number\": \"078-838-8235\",
+   \"email\": \"ultrices.posuere.cubilia@vestibulum.org\"
+ },
+ {
+   \"name\": \"Lesley Z. Christensen\",
+   \"phone number\": \"047-793-8910\",
+   \"email\": \"sit.amet.ornare@lacusEtiambibendum.org\"
+ },
+ {
+   \"name\": \"Yuli M. Hoover\",
+   \"phone number\": \"048-590-4281\",
+   \"email\": \"ullamcorper.Duis.at@ametrisusDonec.com\"
+ },
+ {
+   \"name\": \"Jescie W. Donaldson\",
+   \"phone number\": \"023-989-9218\",
+   \"email\": \"enim.Nunc.ut@fermentum.co.uk\"
+ },
+ {
+   \"name\": \"Rebekah J. Schultz\",
+   \"phone number\": \"052-231-7605\",
+   \"email\": \"nec.malesuada@velsapienimperdiet.co.uk\"
+ },
+ {
+   \"name\": \"Howard G. Dennis\",
+   \"phone number\": \"091-345-7818\",
+   \"email\": \"Phasellus.dapibus@atarcu.co.uk\"
+ },
+ {
+   \"name\": \"Denton T. Watson\",
+   \"phone number\": \"063-233-6271\",
+   \"email\": \"consequat@ipsumporta.edu\"
+ },
+ {
+   \"name\": \"Wing H. Barlow\",
+   \"phone number\": \"083-213-5224\",
+   \"email\": \"tincidunt.aliquam@cursus.co.uk\"
+ },
+ {
+   \"name\": \"Lillian Z. Rojas\",
+   \"phone number\": \"078-175-8317\",
+   \"email\": \"sit.amet@urnasuscipitnonummy.com\"
+ },
+ {
+   \"name\": \"Yoshio L. Mcfadden\",
+   \"phone number\": \"069-060-6375\",
+   \"email\": \"congue@ac.ca\"
+ },
+ {
+   \"name\": \"Simon S. Daugherty\",
+   \"phone number\": \"040-213-0803\",
+   \"email\": \"Duis.sit.amet@sempercursusInteger.com\"
+ },
+ {
+   \"name\": \"Abigail P. Richardson\",
+   \"phone number\": \"014-047-3733\",
+   \"email\": \"risus.Duis.a@estac.edu\"
+ },
+ {
+   \"name\": \"Hermione W. Bray\",
+   \"phone number\": \"033-257-2925\",
+   \"email\": \"sagittis@In.co.uk\"
+ },
+ {
+   \"name\": \"Dennis L. Kent\",
+   \"phone number\": \"039-366-6638\",
+   \"email\": \"Ut.semper.pretium@Suspendisse.net\"
+ },
+ {
+   \"name\": \"Brooke V. Blevins\",
+   \"phone number\": \"086-139-1768\",
+   \"email\": \"Mauris.magna@Duisvolutpatnunc.ca\"
+ },
+ {
+   \"name\": \"Dominique W. Meadows\",
+   \"phone number\": \"093-223-0010\",
+   \"email\": \"ante@Quisqueornare.ca\"
+ },
+ {
+   \"name\": \"Taylor O. Rush\",
+   \"phone number\": \"013-946-6479\",
+   \"email\": \"primis.in.faucibus@amet.edu\"
+ },
+ {
+   \"name\": \"Remedios I. Cabrera\",
+   \"phone number\": \"072-959-6760\",
+   \"email\": \"libero.et.tristique@eleifendnecmalesuada.net\"
+ },
+ {
+   \"name\": \"Jonas Y. Carver\",
+   \"phone number\": \"093-719-8462\",
+   \"email\": \"Integer@mollis.edu\"
+ },
+ {
+   \"name\": \"Ulric S. Dillon\",
+   \"phone number\": \"002-320-4311\",
+   \"email\": \"bibendum@volutpat.net\"
+ },
+ {
+   \"name\": \"Isaac B. Knox\",
+   \"phone number\": \"053-304-4998\",
+   \"email\": \"ipsum@ipsumnon.com\"
+ },
+ {
+   \"name\": \"Akeem O. Williamson\",
+   \"phone number\": \"007-890-8736\",
+   \"email\": \"tristique.senectus.et@id.net\"
+ },
+ {
+   \"name\": \"Ashely G. Ray\",
+   \"phone number\": \"005-379-0839\",
+   \"email\": \"semper@nonantebibendum.net\"
+ },
+ {
+   \"name\": \"Zahir T. Jackson\",
+   \"phone number\": \"064-526-5109\",
+   \"email\": \"dapibus.id.blandit@arcu.com\"
+ },
+ {
+   \"name\": \"Deirdre V. Leonard\",
+   \"phone number\": \"092-317-0434\",
+   \"email\": \"euismod.in.dolor@Nullam.com\"
+ },
+ {
+   \"name\": \"Kalia E. Roman\",
+   \"phone number\": \"001-959-3099\",
+   \"email\": \"ullamcorper.nisl.arcu@sollicitudinorci.edu\"
+ },
+ {
+   \"name\": \"Stacy Q. Cochran\",
+   \"phone number\": \"019-412-1201\",
+   \"email\": \"vehicula.risus@estNunclaoreet.co.uk\"
+ },
+ {
+   \"name\": \"Fallon G. Stanley\",
+   \"phone number\": \"084-910-9595\",
+   \"email\": \"vel.turpis.Aliquam@tacitisociosquad.edu\"
+ },
+ {
+   \"name\": \"Eagan N. Burke\",
+   \"phone number\": \"058-836-1523\",
+   \"email\": \"nunc@apurus.com\"
+ },
+ {
+   \"name\": \"Aurora T. Cooper\",
+   \"phone number\": \"099-356-1238\",
+   \"email\": \"Morbi@ametdiam.net\"
+ },
+ {
+   \"name\": \"Hilda W. Gilmore\",
+   \"phone number\": \"058-958-6505\",
+   \"email\": \"Nam.tempor.diam@Phaselluslibero.ca\"
+ }
+]}
+    </string>
+</resources>

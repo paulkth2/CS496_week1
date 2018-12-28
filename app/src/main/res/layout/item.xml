@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/profile_imageview"
+        android:layout_width="91dp"
+        android:layout_height="86dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/name_textview"
+        android:layout_width="292dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="8dp"
+        android:text="TextView"
+        app:layout_constraintStart_toEndOf="@+id/profile_imageview"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/phonenum_textview"
+        android:layout_width="292dp"
+        android:layout_height="25dp"
+        android:text="TextView"
+        app:layout_constraintStart_toEndOf="@+id/profile_imageview"
+        app:layout_constraintTop_toBottomOf="@+id/name_textview" />
+
+    <TextView
+        android:id="@+id/email_textview"
+        android:layout_width="292dp"
+        android:layout_height="25dp"
+        android:text="TextView"
+        app:layout_constraintStart_toEndOf="@+id/profile_imageview"
+        app:layout_constraintTop_toBottomOf="@+id/phonenum_textview" />
+</android.support.constraint.ConstraintLayout>
